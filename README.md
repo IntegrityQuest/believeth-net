@@ -24,16 +24,6 @@ believeth.net applies that convergent wisdom to Christian unity.
 
 ---
 
-## Repository Structure
-
-### /believeth-themes/
-WordPress theme files for believeth.net — the perception parent theme and perception-child active theme. Auto-synced weekly from the live server.
-
-### /backups/
-Database export references and backup logs.
-
----
-
 ## The Vision
 
 - Unite Christians around the Golden Rule as shared foundation
@@ -47,9 +37,6 @@ Database export references and backup logs.
 
 **Fisher Amen** — Author of *The Golden AI Rule* (ISBN 9798252132631)
 fisher@integrity.quest | https://integrity.quest
-
-**Hermes Agent** — AI steward (Nous Research / Anthropic Claude)
-Running on Hostinger VPS, believeth.net
 
 ---
 
